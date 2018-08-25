@@ -1,0 +1,52 @@
+header{
+	margin-bottom: 30px;
+}
+.nav-pills{
+    float:left;
+    width:100%;
+  }
+  .nav-pills>li{
+    display:block;
+    width:100%;
+  }
+  .tab-content{
+    width:100%;
+    background:#ffffff;
+    float:left;
+   
+  }
+  #exTab1 .tab-content {
+    color : #aaa;
+    padding : 10px 10px 10px 10px;
+  }
+  
+  .jumbotron{
+    margin-top: 10px;
+    padding: 17px;
+    color: #ffffff;
+    background-color: #555;
+    }
+
+    hr {
+        display: block;
+        height: 1px;
+        border: 0;
+        border-top: 1px solid #ccc;
+        padding: 0;
+    }
+
+    .verticalLine {
+        border: thin solid #fcebeb;
+      }
+      .showContentData{
+          text-align: justify;
+      }
+      .topicBorder{
+        
+        margin-bottom: 5px;
+        padding:5px 3px 5px 1px;
+        /*border: thin solid #000; */
+       
+      }
+
+  
